@@ -166,3 +166,120 @@
 {"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
 {"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:19:47:08 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [22/Nov/2025:19:47:09 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:02:20 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:03:02 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:03:07 +0000] \"GET /api/users HTTP/1.1\" 401 72 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:05:15 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:05:17 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:05:22 +0000] \"GET /api/users HTTP/1.1\" 401 72 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:05:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:06:17 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:06:48 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:07:18 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:07:48 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:08:18 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User sunidhityagi2022@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: sunidhityagi2022@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:08:40 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 131 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:08:49 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:09:19 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:09:34 +0000] \"POST /api/users/2 HTTP/1.1\" 404 151 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sunidhityagi2022@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 2","service":"acquisitions-api"}
+{"level":"info","message":"User devansh@devansh.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:09:42 +0000] \"GET /api/users/2 HTTP/1.1\" 200 198 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sunidhityagi2022@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 1","service":"acquisitions-api"}
+{"level":"info","message":"User admin@devansh.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:09:47 +0000] \"GET /api/users/1 HTTP/1.1\" 200 195 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:09:49 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sunidhityagi2022@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 3","service":"acquisitions-api"}
+{"level":"info","message":"User devanshtyagi2022@vitbhopal.ac.in retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:09:51 +0000] \"GET /api/users/3 HTTP/1.1\" 200 217 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sunidhityagi2022@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 4","service":"acquisitions-api"}
+{"level":"info","message":"User sunidhityagi2022@gmail.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:09:54 +0000] \"GET /api/users/4 HTTP/1.1\" 200 211 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sunidhityagi2022@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 1","service":"acquisitions-api"}
+{"level":"info","message":"User admin@devansh.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:10:17 +0000] \"GET /api/users/1 HTTP/1.1\" 200 195 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:10:19 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sunidhityagi2022@gmail.com (user)","service":"acquisitions-api"}
+{"level":"warn","message":"Access denied for user sunidhityagi2022@gmail.com with role user. Required: admin","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:10:21 +0000] \"DELETE /api/users/1 HTTP/1.1\" 403 62 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:10:49 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:11:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:11:50 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:12:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:12:50 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:13:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User admin@admin.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: admin@admin.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:13:36 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 106 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:13:51 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:14:21 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User admin@admin.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: admin@admin.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:14:33 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 118 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:14:51 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:15:07 +0000] \"GET /api/users/4 HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:15:21 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:15:34 +0000] \"GET /api/users/3 HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:15:51 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User admin@admin.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: admin@admin.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:16:08 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 118 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:16:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:16:52 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:17:15 +0000] \"DELETE /api/users/4 HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:17:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:17:52 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:18:15 +0000] \"GET /api/users HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:18:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:18:46 +0000] \"GET /api/users/1 HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:18:47 +0000] \"GET /api/users/2 HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:18:49 +0000] \"GET /api/users/3 HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.20.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/4","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:18:50 +0000] \"GET /api/users/4 HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.20.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/5","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:18:51 +0000] \"GET /api/users/5 HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:18:53 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:19:14 +0000] \"GET /api/users HTTP/1.1\" 401 72 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.20.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/1","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:19:18 +0000] \"GET /api/users/1 HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:19:23 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.20.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/2","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:19:29 +0000] \"GET /api/users/2 HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:19:53 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:20:22 +0000] \"GET /api/users/5 HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:20:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: admin@admin.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 5","service":"acquisitions-api"}
+{"level":"info","message":"User admin@admin.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:20:32 +0000] \"GET /api/users/5 HTTP/1.1\" 200 198 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: admin@admin.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 5","service":"acquisitions-api"}
+{"level":"info","message":"User admin@admin.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:20:33 +0000] \"GET /api/users/5 HTTP/1.1\" 200 198 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: admin@admin.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:20:41 +0000] \"GET /api/users HTTP/1.1\" 200 841 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: admin@admin.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Deleting user: 4","service":"acquisitions-api"}
+{"level":"info","message":"User sunidhityagi2022@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"User sunidhityagi2022@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:20:52 +0000] \"DELETE /api/users/4 HTTP/1.1\" 200 129 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:20:53 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: admin@admin.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.20.0.1 - - [22/Nov/2025:20:21:00 +0000] \"GET /api/users HTTP/1.1\" 200 678 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:21:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:20:21:54 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
