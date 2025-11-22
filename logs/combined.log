@@ -2,3 +2,31 @@
 {"level":"info","message":"::1 - - [21/Nov/2025:13:47:21 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
 {"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [21/Nov/2025:13:47:24 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:49:26 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:53:18 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:53:32 +0000] \"GET /api/health HTTP/1.1\" 404 149 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:53:49 +0000] \"GET /api/health HTTP/1.1\" 404 149 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:53:50 +0000] \"GET /api/health HTTP/1.1\" 404 149 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:54:50 +0000] \"GET /api/health HTTP/1.1\" 404 149 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:54:57 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:55:01 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:55:08 +0000] \"GET /api/health HTTP/1.1\" 404 149 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:55:14 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Nov/2025:14:56:27 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:11:21:20 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:11:22:32 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: devansh.tyagi04@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:11:24:34 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 112 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:11:25:13 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:11:25:13 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: devansh.tyagi04@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:11:25:22 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 112 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User admin@devansh.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: admin@devansh.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:11:46:37 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 103 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User devansh@devansh.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: devansh@devansh.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Nov/2025:11:48:03 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 106 \"-\" \"HTTPie\"","service":"acquisitions-api"}
